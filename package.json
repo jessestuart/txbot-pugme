@@ -17,7 +17,7 @@
     "chai": "*",
     "grunt-contrib-watch": "~0.5.3",
     "grunt-mocha-test": "~0.7.0",
-    "grunt-release": "~0.6.0",
+    "grunt-release": "~0.14.0",
     "hubot": "2.x",
     "matchdep": "~0.1.2",
     "mocha": "*",
